@@ -16,7 +16,7 @@ Environmental data of temperature, humidity and brightness were acquired.
 | 14:00 | 25.5   | 24       | 21.3 | 18.2     | 4.2 | 5.8 |
 | 15:00 | 25.2   | 24.2     | 21.1 | 17.7     | 4.1 | 6.5 |
 | 16:00 | 26.5   | 27.3     | 22.7 | 18.8     | 3.8 | 8.5 |
-|       |        |          |      | average  | 4 | 8 |
+|       |        |          |      | average  | 4   | 8   |
 
 Some tests of the HTS221 (embedded in the NANO board) and DHT11 (wired in the UNO) sensors were done, and discrepancies came out. 
 
