@@ -6,7 +6,6 @@ Acquisition of environmental data using electronic boards:
 Environmental data of temperature, humidity and brightness were acquired. 
 
 ![Arduino_uno_R3](https://imgur.com/iAPyKXO.jpg)
-![img]https://i.imgur.com/iAPyKXO.jpg[/img]
 
 
 |       | HTS221 |          | DHT11|          |         |         |
