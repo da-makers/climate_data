@@ -6,7 +6,7 @@ Acquisition of environmental data using electronic boards:
 Environmental data of temperature, humidity and brightness were acquired. 
 
 	    HTS221		      DHT11			
-TIME	TEMP	HUMIDITY	TEMP	HUMIDITY	DELTA T	DELTA H
+|TIME	|TEMP	|HUMIDITY	TEMP	HUMIDITY	DELTA T	DELTA H
 10:00	25	  23.8	    20.9	19.6	    4.1	    4.2
 11:00	26	  27.9	    23.3	18.7	    2.7	    9.2
 11:30	26	  30	      22.9	20.8	    3.1	    9.2
