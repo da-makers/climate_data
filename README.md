@@ -5,6 +5,9 @@ Acquisition of environmental data using electronic boards:
 - Arduino NANO 33 BLE Sense
 Environmental data of temperature, humidity and brightness were acquired. 
 
+![alt text](http://url/to/https://imgur.com/a/CEexyRj)
+
+
 |       | HTS221 |          | DHT11|          |         |         |
 | ----- | ------ | -------- | ---- | -------- | ------- | ------- |
 |       | TEMP   | HUMIDITY | TEMP | HUMIDITY | DELTA T | DELTA H |
